@@ -1,0 +1,56 @@
+.container{
+    width: 1360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.Search{
+    background-color:rgb(238, 235, 235);
+}
+
+#SearchIn{
+    width: 304px;
+}
+
+.Links{
+    background-color: blue;
+    margin-top: 0.15%;
+}
+
+.Links .box1{
+    width: 36.85%;
+    background-color:rgb(126, 229, 218);
+    float: left;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    margin-right: 0.15%;
+}
+.Links .box2{
+    width: 19.85%;
+    background-color:rgb(112, 204, 194);
+    float: left;
+    font-size: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 0.15%;
+}
+.Links .box3{
+    width: 43%;
+    background-color: rgb(98, 179, 170);
+    float: left;
+    font-size: 14px;
+    height: 3%;
+}
+
+.clear{
+    clear: both;
+}
+
+.copy{
+    margin-top: 15px;
+    font-size: 13px;
+}
